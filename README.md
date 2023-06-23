@@ -4,10 +4,10 @@ Une To Do List belle, simple et élégante !
   <img src="https://github.com/WedoneOfficiel/Wedone-To-Do-List/blob/main/icon.png" />
 </p>
 
-Wedone To Do List est une application Web fonctionnelle sur la plupart des navigateurs modernes (Microsoft Edge, Mozilla FIrefox, ...) et vous permet de vous organiser dans vos actions au quotidien.
+Wedone To Do List est une Application Web fonctionnelle sur la plupart des navigateurs modernes (Microsoft Edge, Mozilla FIrefox, ...) et vous permet de vous organiser dans vos actions au quotidien.
 
 Testez l'application ! https://wedoneofficiel.github.io/Boot-projets-Wedone-Officiel/Wedone%20To%20Do%20List/
-
+ 
 # Fonctionnalités du logiciel
 - Créer des dossiers afin d'y ranger des tâches
 - Supprimer des dossiers
